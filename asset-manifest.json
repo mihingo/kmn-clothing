@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kmn-clothing/static/css/main.b0f3d8b4.chunk.css",
-    "main.js": "/kmn-clothing/static/js/main.75d4850c.chunk.js",
-    "main.js.map": "/kmn-clothing/static/js/main.75d4850c.chunk.js.map",
+    "main.css": "/kmn-clothing/static/css/main.a674b0a4.chunk.css",
+    "main.js": "/kmn-clothing/static/js/main.1a315173.chunk.js",
+    "main.js.map": "/kmn-clothing/static/js/main.1a315173.chunk.js.map",
     "runtime-main.js": "/kmn-clothing/static/js/runtime-main.69a3c662.js",
     "runtime-main.js.map": "/kmn-clothing/static/js/runtime-main.69a3c662.js.map",
     "static/js/2.af7209c3.chunk.js": "/kmn-clothing/static/js/2.af7209c3.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/kmn-clothing/index.html",
     "service-worker.js": "/kmn-clothing/service-worker.js",
     "service-worker.js.map": "/kmn-clothing/service-worker.js.map",
-    "static/css/main.b0f3d8b4.chunk.css.map": "/kmn-clothing/static/css/main.b0f3d8b4.chunk.css.map",
+    "static/css/main.a674b0a4.chunk.css.map": "/kmn-clothing/static/css/main.a674b0a4.chunk.css.map",
     "static/js/2.af7209c3.chunk.js.LICENSE.txt": "/kmn-clothing/static/js/2.af7209c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.69a3c662.js",
     "static/js/2.af7209c3.chunk.js",
-    "static/css/main.b0f3d8b4.chunk.css",
-    "static/js/main.75d4850c.chunk.js"
+    "static/css/main.a674b0a4.chunk.css",
+    "static/js/main.1a315173.chunk.js"
   ]
 }
