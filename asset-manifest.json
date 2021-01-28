@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/kmn-clothing/static/css/main.3cc3ebb6.chunk.css",
-    "main.js": "/kmn-clothing/static/js/main.7fae8f04.chunk.js",
-    "main.js.map": "/kmn-clothing/static/js/main.7fae8f04.chunk.js.map",
-    "runtime-main.js": "/kmn-clothing/static/js/runtime-main.07c1e906.js",
-    "runtime-main.js.map": "/kmn-clothing/static/js/runtime-main.07c1e906.js.map",
-    "static/js/2.27253511.chunk.js": "/kmn-clothing/static/js/2.27253511.chunk.js",
-    "static/js/2.27253511.chunk.js.map": "/kmn-clothing/static/js/2.27253511.chunk.js.map",
-    "static/js/3.153dfa21.chunk.js": "/kmn-clothing/static/js/3.153dfa21.chunk.js",
-    "static/js/3.153dfa21.chunk.js.map": "/kmn-clothing/static/js/3.153dfa21.chunk.js.map",
+    "main.css": "/kmn-clothing/static/css/main.f1462691.chunk.css",
+    "main.js": "/kmn-clothing/static/js/main.541bff5e.chunk.js",
+    "main.js.map": "/kmn-clothing/static/js/main.541bff5e.chunk.js.map",
+    "runtime-main.js": "/kmn-clothing/static/js/runtime-main.d0b25616.js",
+    "runtime-main.js.map": "/kmn-clothing/static/js/runtime-main.d0b25616.js.map",
+    "static/js/2.45b8697a.chunk.js": "/kmn-clothing/static/js/2.45b8697a.chunk.js",
+    "static/js/2.45b8697a.chunk.js.map": "/kmn-clothing/static/js/2.45b8697a.chunk.js.map",
+    "static/js/3.9ffd039c.chunk.js": "/kmn-clothing/static/js/3.9ffd039c.chunk.js",
+    "static/js/3.9ffd039c.chunk.js.map": "/kmn-clothing/static/js/3.9ffd039c.chunk.js.map",
     "index.html": "/kmn-clothing/index.html",
     "service-worker.js": "/kmn-clothing/service-worker.js",
     "service-worker.js.map": "/kmn-clothing/service-worker.js.map",
-    "static/css/main.3cc3ebb6.chunk.css.map": "/kmn-clothing/static/css/main.3cc3ebb6.chunk.css.map",
-    "static/js/2.27253511.chunk.js.LICENSE.txt": "/kmn-clothing/static/js/2.27253511.chunk.js.LICENSE.txt"
+    "static/css/main.f1462691.chunk.css.map": "/kmn-clothing/static/css/main.f1462691.chunk.css.map",
+    "static/js/2.45b8697a.chunk.js.LICENSE.txt": "/kmn-clothing/static/js/2.45b8697a.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/kmn-clothing/static/media/crown.3a4e2b15.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.07c1e906.js",
-    "static/js/2.27253511.chunk.js",
-    "static/css/main.3cc3ebb6.chunk.css",
-    "static/js/main.7fae8f04.chunk.js"
+    "static/js/runtime-main.d0b25616.js",
+    "static/js/2.45b8697a.chunk.js",
+    "static/css/main.f1462691.chunk.css",
+    "static/js/main.541bff5e.chunk.js"
   ]
 }
