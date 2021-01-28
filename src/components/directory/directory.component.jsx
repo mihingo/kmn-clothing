@@ -1,7 +1,7 @@
 import React from 'react';
 
-import '../menu-item/menu-item.components';
-import MenuItem from '../menu-item/menu-item.components';
+import '../menu-item/menu-item.component';
+import MenuItem from '../menu-item/menu-item.component';
 import './directory.styles.scss';
 
 class Directory extends React.Component{
@@ -14,7 +14,7 @@ class Directory extends React.Component{
                   title: 'hats',
                   imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
                   id: 1,
-                  linkUrl: 'hats'
+                  linkUrl: 'shop'
                 },
                 {
                   title: 'jackets',
